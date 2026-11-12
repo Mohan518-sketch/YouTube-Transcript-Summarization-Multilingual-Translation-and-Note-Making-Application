@@ -1,0 +1,7 @@
+streamlit
+transformers
+youtube-transcript-api
+deep-translator
+openai
+streamlit-lottie
+torch
